@@ -1,0 +1,13 @@
+{
+  "name": "ai-plant-doctor",
+  "version": "1.0.0",
+  "description": "AI Plant Doctor — ถ่ายรูปพืช วินิจฉัยโรค แนะนำสารออกฤทธิ์ สแกนฉลากยา และออกบิล/ใบกำกับภาษี",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
